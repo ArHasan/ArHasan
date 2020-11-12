@@ -1,8 +1,6 @@
 
-    👋Assalamualaikum
+👋Assalamualaikum
 
-<span style="color:blue">some *blue*    </span>.
-`        s      `
 ### 👨‍💻 I'm Ashrafur Rahman (Hasan) 
 
  <img align="right" alt="GIF" src="https://github.com/ArHasan/ArHasan/blob/main/img/coding.gif?raw=true" width="500" height="320" />
