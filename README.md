@@ -1,6 +1,7 @@
-### Hello World, 👨‍💻 I'm Ashrafur Rahman (Hasan) 👋
+### ![hand salute](https://cdn.emojidex.com/emoji/px32/hand_salute.png "hand salute")giAssalamualaikum 
+### 👨‍💻 I'm Ashrafur Rahman (Hasan) 👋
 
- <img align="right" alt="GIF" src="https://github.com/ArHasan/ArHasan/img/main/coding.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/ArHasan/ArHasan/blob/main/img/coding.gif?raw=true" width="500" height="320" />
 
 
 ## I'm a Developer, learner, Creator, and Mentor!!
