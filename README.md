@@ -1,5 +1,5 @@
 
-      👋Assalamualaikum
+###      👋Assalamualaikum
 
 
 ### 👨‍💻 I'm Ashrafur Rahman (Hasan) 
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( Bangla, English, Hindi)
+- ⚡ Fun fact: I speak 3 languages ( Bangla, English, Hindi)
 
 
 ### Talk with me, I am kinda awesome:
