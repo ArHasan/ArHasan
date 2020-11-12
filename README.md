@@ -1,4 +1,4 @@
-### ![hand salute](https://cdn.emojidex.com/emoji/px32/hand_salute.png "")
+
       👋Assalamualaikum
 
 
