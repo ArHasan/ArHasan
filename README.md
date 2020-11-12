@@ -1,4 +1,4 @@
-### ![hand salute](https://cdn.emojidex.com/emoji/px32/hand_salute.png "hand salute")giAssalamualaikum 
+### ![hand salute](https://cdn.emojidex.com/emoji/px32/hand_salute.png "hand salute")Assalamualaikum 
 ### 👨‍💻 I'm Ashrafur Rahman (Hasan) 👋
 
  <img align="right" alt="GIF" src="https://github.com/ArHasan/ArHasan/blob/main/img/coding.gif?raw=true" width="500" height="320" />
@@ -44,14 +44,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ArHasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="ArHasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArHasan&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="ArHasan GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="ArHasan GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArHasan" />
 
 </details>
 
