@@ -1,7 +1,8 @@
-### ![ ](https://cdn.emojidex.com/emoji/px32/hand_salute.png "")        Assalamualaikum
+### ![hand salute](https://cdn.emojidex.com/emoji/px32/hand_salute.png "")
+      👋Assalamualaikum
 
 
-### 👨‍💻 I'm Ashrafur Rahman (Hasan) 👋
+### 👨‍💻 I'm Ashrafur Rahman (Hasan) 
 
  <img align="right" alt="GIF" src="https://github.com/ArHasan/ArHasan/blob/main/img/coding.gif?raw=true" width="500" height="320" />
 
