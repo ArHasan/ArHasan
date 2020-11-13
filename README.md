@@ -9,7 +9,7 @@
 ## I'm a Developer, learner, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my ...
-- 🌱 I’m currently learning React and Laravel
+- 🌱 I’m currently learning PHP and Laravel
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
