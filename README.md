@@ -6,7 +6,7 @@
  <img align="right" alt="GIF" src="https://github.com/ArHasan/ArHasan/blob/main/img/coding.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Developer, learner, Creator, and Mentor!!
+## I'm a Developer, learner, Creator, and Mentor!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my ...
 - 🌱 I’m currently learning PHP and Laravel
